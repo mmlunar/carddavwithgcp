@@ -1,0 +1,4 @@
+# Ignore files with the following extensions
+*.json
+*.vcf
+*.pickle
